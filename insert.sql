@@ -33,6 +33,19 @@ insert into tracks (title, duration, album_id) values('Инитро','2','3');
 insert into tracks (title, duration, album_id) values('Икона','4','2');
 insert into tracks (title, duration, album_id) values('Фантом','6','1');
 
+---для проверки замечаний
+insert into tracks (title ,duration , album_id) values('My own','210','1');
+insert into tracks (title ,duration , album_id) values('own my','150','1');
+insert into tracks (title ,duration , album_id) values('my','250','1');
+insert into tracks (title ,duration , album_id) values('oh my god','180','1');
+insert into tracks (title ,duration , album_id) values('myself','280','1');
+insert into tracks (title ,duration , album_id) values('by myself','380','1');
+insert into tracks (title ,duration , album_id) values('bemy self','480','1');
+insert into tracks (title ,duration , album_id) values('myself by','330','1');
+insert into tracks (title ,duration , album_id) values('by myself by','280','1');
+insert into tracks (title ,duration , album_id) values('beemy','211','1');
+insert into tracks (title ,duration , album_id) values('premyne','209','1');
+
 --Добавление Сборников
 insert into collections (title ,year) values('Топ 100','2020');
 insert into collections (title ,year) values('Хиты шансона','2022');
